@@ -1,4 +1,3 @@
-
 <table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>LMS ECOSYSTEM</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr>
  <tr><td>Application / Extension</td><td>Hosted Where?</td><td>Integrated how?</td><td>URL/s</td><td>Notes</td><td>Support contact</td><td>Support URL</td><td>Business Owner</td><td>Engage integration</td><td>Angel Integration</td></tr>
